@@ -2,7 +2,7 @@
   
   .bg-image {
     
-    background-image: url("/image/johan2.jpg");
+    background-image: url("../image/johan2.jpg");
     
     
     filter: blur(3px);
@@ -53,7 +53,7 @@ position: absolute;
       text-transform: uppercase;
   }
   .z{
-    background-image: url("/image/johan9.jpg");
+    background-image: url("../image/johan9.jpg");
     
     
     filter: blur(4px);
@@ -67,7 +67,7 @@ position: absolute;
     background-size: cover;
   }
   .m{
-    background-image: url("/image/johan7.jpg");
+    background-image: url("../image/johan7.jpg");
     
     
     filter: blur(4px);
@@ -81,7 +81,7 @@ position: absolute;
     background-size: cover;
   }
   .n{
-    background-image: url("/image/johan10.jpg");
+    background-image: url("../image/johan10.jpg");
     
     
     filter: blur(4px);
@@ -153,7 +153,7 @@ a{
       font-family: 'Roboto', sans-serif;
 }
 .r{
-    background-image: url("/image/johan8.jpg");
+    background-image: url("../image/johan8.jpg");
     
     
     filter: blur(3px);
